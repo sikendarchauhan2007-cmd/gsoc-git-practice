@@ -1,3 +1,2 @@
-#gj
-Learning Git for GSoC 2027
-Practicing Git branches
+# GSoC 2027 Preparation
+Learning C++, Linux, Git, and open-source development.
